@@ -1,4 +1,4 @@
-#This programe is create by SUjit Mandal
+#This programe is create by Sujit Mandal
 
 class person:
     def __init__(self, name, age):
