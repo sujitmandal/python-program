@@ -1,4 +1,4 @@
-#This programe is create by Sujit Mandall
+#This programe is create by Sujit Mandal
 
 tu=['math','c++','java','python']
 print(tu.index('math'))
