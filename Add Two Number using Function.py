@@ -1,4 +1,4 @@
-#This programe is create by SUjit Mandal
+#This programe is create by Sujit Mandal
 
 def add(num1, num2):
     print('the sim is:',num1 + num2)
