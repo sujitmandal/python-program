@@ -1,4 +1,4 @@
-#This programe is create by SUjit Mandal
+#This programe is create by Sujit Mandal
 
 list=["sujit","subhas","mca","bsc"]
 print(list) #["sujit","subhas","mca","bsc"]
