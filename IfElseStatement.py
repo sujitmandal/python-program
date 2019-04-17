@@ -1,4 +1,4 @@
-#This programe is create by SUjit Mandal
+#This programe is create by Sujit Mandal
 
 num = 0
 if num < 1:
