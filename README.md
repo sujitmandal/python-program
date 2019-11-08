@@ -1,7 +1,6 @@
 # python-program
 python program for beginner
 ---------------------------
-
 #data structure with python program:
 ------------------------------------
 
