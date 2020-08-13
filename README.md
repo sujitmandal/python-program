@@ -12,7 +12,7 @@ Often, programmers fall in love with Python because of the increased productivit
  Requirement’s:
 -----------------
 
-• Python 3.7
+• Python 
 
 • Anaconda
 
